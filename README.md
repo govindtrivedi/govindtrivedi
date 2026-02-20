@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Govind Trivedi<br>A passionate  Junior Cloud & DevOps Engineer || Noida India<br><br>Email Me 👉 ✉️ tgovind052.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Enter your project info here.<br>🌱 I’m currently learning: AWS DevOps<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: Enter your email here<br>😄 Pronouns: Govind Trivedi<br>⚡ Fun fact: I Love Tech and Tech Love Me
+💫 Hi 👋, I'm Govind Trivedi<br>A passionate  Junior Cloud & DevOps Engineer || Noida India<br><br>Email Me 👉 ✉️ tgovind052.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Enter your project info here.<br>🌱 I’m currently learning: AWS DevOps<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: Enter your email here<br>😄 Pronouns: Govind Trivedi<br>⚡ Fun fact: I love Tech and Tech loves me
 
 
 
