@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am  Govind Trivedi, a DevOps Engineer with 1.6 years of hands-on experience in CI/CD automation, Docker, Kubernetes (EKS), and AWS cloud infrastructure.<br><br>I specialise in building scalable, secure, and high-availability systems using Infrastructure as Code, Linux scripting, and modern DevOps tools.<br><br>I have implemented end-to-end DevOps pipelines for real-world applications, improving deployment efficiency and system uptime.<br><br>I am passionate about automation, cloud technologies, and continuous improvement, with a strong focus on reliability and performance optimisation.<br><br>I aim to contribute to teams that value innovation, ownership, and operational excellence.
+# Govind Trivedi
+ ## Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
+ # 📍 Noida, India
+
+🚀 Passionate about building scalable, automated, and reliable cloud infrastructure.
+🔭 Currently working on improving CI/CD pipelines and Kubernetes-based deployments.
+🌱 Currently learning advanced AWS DevOps practices and Infrastructure as Code optimisation.
+👯 Open to collaborating on Cloud, DevOps, and Automation projects.
+💬 Ask me about AWS, Docker, Kubernetes, Linux, and CI/CD pipelines.
+📫 Reach me at: tgovind052@gmail.com
 
 
 ## 🌐 Socials:
