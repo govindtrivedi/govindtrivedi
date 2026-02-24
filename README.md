@@ -1,5 +1,19 @@
-# 💫 About Me:
-💫 Hi 👋, I'm Govind Trivedi<br>A passionate  Junior Cloud & DevOps Engineer || Noida India<br><br>Email Me 👉 ✉️ tgovind052.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Enter your project info here.<br>🌱 I’m currently learning: AWS DevOps<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: Enter your email here<br>😄 Pronouns: Govind Trivedi<br>⚡ Fun fact: I love Tech and Tech loves me
+:
+
+💫 About Me
+
+Hi 👋, I'm Govind Trivedi
+Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
+📍 Noida, India
+
+🚀 Passionate about building scalable, automated, and reliable cloud infrastructure.
+🔭 Currently working on improving CI/CD pipelines and Kubernetes-based deployments.
+🌱 Currently learning advanced AWS DevOps practices and Infrastructure as Code optimisation.
+👯 Open to collaborating on Cloud, DevOps, and Automation projects.
+💬 Ask me about AWS, Docker, Kubernetes, Linux, and CI/CD pipelines.
+📫 Reach me at: tgovind052@gmail.com
+
+⚡ Fun fact: I believe automation is not a luxury — it’s a necessity.
 
 
 
