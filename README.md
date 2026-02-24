@@ -1,4 +1,6 @@
-   ## Govind Trivedi
+   # 💫 About Me
+
+## Hi 👋, I'm Govind Trivedi
    ### Aspiring Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
  ### 📍Banglore Karnatka
 
