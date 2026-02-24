@@ -1,5 +1,5 @@
    ## Govind Trivedi
-   Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
+   ## Aspiring Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
  📍 Noida, India
 
 🚀 Passionate about building scalable, automated, and reliable cloud infrastructure.<br/>
