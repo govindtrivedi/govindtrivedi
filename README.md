@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Govind Trivedi
    ### Hands on 1+Years Experience on Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform
- ### 📍Banglore Karnatka
+ ### 📍Banglore Karnatka.
 
 🚀 Passionate about building scalable, automated, and reliable cloud infrastructure.<br/>
 🔭 Currently working on improving CI/CD pipelines and Kubernetes-based deployments.<br/>
