@@ -1,43 +1,156 @@
-   # 💫 About Me
 
-## Hi 👋, I'm Govind Trivedi
-   ### Hands on 1+Years Experience on Junior Cloud & DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform.
- ### 📍Banglore Karnatka.
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshops" /> </p>
 
-🚀 Passionate about building scalable, automated, and reliable cloud infrastructure.<br/>
-🔭 Currently working on improving CI/CD pipelines and Kubernetes-based deployments.<br/>
-🌱 Currently learning advanced AWS DevOps practices and Infrastructure as Code optimisation.<br/>
-👯 Open to collaborating on Cloud, DevOps, and Automation projects.<br/>
-💬 Ask me about AWS, Docker, Kubernetes, Linux, and CI/CD pipelines.<br/>
-📫 Reach me at: tgovind052@gmail.com<br/>
+<h1 align="center">Hi , I'm Rushikesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ -->
+
+<h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Govind Trivedi+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a></h3>
+ 
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Govind Trivedi</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+  </samp>
+  <br/>
+</p>
+
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tgovind052) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-trivedi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Govind88408582) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@govindtrivedi8598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tgovind052@gmail.com) 
+## :zap: Skills
 
-<!-- Snake Game Repo View -->
+   <a href="https://www.linux.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
+  </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
+  </a> 
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"  height="70" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"  height="75" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="80" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
+  </a> 
+  <a href="https://argoproj.github.io/cd/" target="_blank" >
+    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+   </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="80" />
+  </a>
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" />
+  </a>
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
+  </a>
+  
+  ### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+  </a>
+  <a href="https://www.dynatrace.com/" target="_blank" >
+    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
+  </a>
+</p>
+<!--
+  ## Hashnode Blogs (Expand to View)
+<!--
+<details>
+  <summary><b>Tap Me</b></summary>
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
+ 
+<!--
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
+ 
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/create-an-aws-code-pipeline-with-aws-code-commit-code-build-code-deploy-tutorial&large=false&theme=dark"/>
+  -->
 
+</p>
+  </details>
+  
+  ## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
+ 
+
+</details>
+
+ 
+   
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+   
+## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
+  ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+
+ -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+### Show some ❤️ by starring some of the repositories!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
+
+
+<!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+ -->
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=govindtrivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=govindtrivedi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindtrivedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=govindtrivedi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=govindtrivedi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
