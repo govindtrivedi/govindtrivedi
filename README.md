@@ -13,7 +13,7 @@
   <br/>
 </p>
 
-<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+<p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=govindtrivedi&theme=algolia" alt="govindtrivedi" /></p>
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishikeshops&theme=algolia" alt="GitHub Streak" /></a> -->
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
@@ -107,22 +107,22 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikeshops&theme=2077" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=govindtrivedi&theme=2077" alt="govindtrivedi" /></p>
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikeshops&theme=aura" alt="rishikeshops" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikeshops&theme=aura" alt="rishikeshops" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=govindtrivedi&theme=aura" alt="govindtrivedi" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=govindtrivedi&theme=aura" alt="govindtrivedi" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govindtrivedi&theme=great_gatsby" alt="govindtrivedi" /></p>
  
 
 </details>
