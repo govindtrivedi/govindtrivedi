@@ -1,44 +1,38 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Govind+Trivedi;DevOps+Engineer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Govind+Trivedi;DevOps+Engineer;Always+Learning+New+Things+🚀" />
 </a>
 </h3>
 
 <p align="center">
 <samp>
-Hey, My name is <em>Govind Trivedi</em> and I am a DevOps ⚙️ Engineer passionate about automation, cloud, and scalable infrastructure. I focus on improving deployment efficiency, system reliability, and continuous delivery using modern DevOps tools and practices. 🚀
+Hey, My name is <em>Govind Trivedi</em> and I am a DevOps ⚙️ Engineer passionate about automation, cloud computing, and building scalable systems. I love improving CI/CD pipelines, optimizing workflows, and continuously learning new DevOps tools & technologies. 🚀
 </samp>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=govindtrivedi&theme=algolia" />
-</p>
-
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
 ---
+
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ## ⚡ Skills
 
-<p>
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="60"/>
-<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="60"/>
-<img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="80"/>
-<img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="60"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" height="60"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="70"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="70"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="70"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="70"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="70"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=govindtrivedi&theme=algolia"/>
+</p>
 
 <details>
 <summary><b>💻 Profile Stats</b></summary>
@@ -56,7 +50,7 @@ Hey, My name is <em>Govind Trivedi</em> and I am a DevOps ⚙️ Engineer passio
 </details>
 
 <details>
-<summary><b>📈 Contributions</b></summary>
+<summary><b>📊 Contributions</b></summary>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govindtrivedi&theme=great_gatsby"/>
 
@@ -64,20 +58,21 @@ Hey, My name is <em>Govind Trivedi</em> and I am a DevOps ⚙️ Engineer passio
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 📧 Email: **tgovind052@gmail.com**
-- 📱 Mobile: **+91 8400711424**
-- 💻 GitHub: https://github.com/govindtrivedi
+- 🔗 GitHub: https://github.com/govindtrivedi  
+- 💼 LinkedIn: (Add your LinkedIn here)  
+- 📧 Email: tgovind052@gmail.com  
+- 📱 Mobile: +91 8400711424  
 
 ---
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=25&duration=3000&pause=800&color=60F74D&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+😊;Star+my+repos+if+you+like+them!" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=monoscope&size=25&duration=3000&pause=800&color=60F74D&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+❤️;Keep+Learning+🚀" />
 </p>
 
+---
+
 <p align="center">
-<img src="https://profile-counter.glitch.me/govindtrivedi/count.svg"/>
+<img src="https://profile-counter.glitch.me/govindtrivedi/count.svg" />
 </p>
